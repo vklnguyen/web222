@@ -1,0 +1,246 @@
+body{
+    margin: 0px 5vw;
+    width: 90vw;
+    max-width: 1100px;
+    background: #f2c6b4; 
+    
+}
+
+.myDiv1 { 
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+
+}
+#txt1{
+    font-size: 30px;
+    text-shadow: 2px 2px #ff0000;
+    height: 50vw;;
+    margin-left: 17vw;
+}
+
+#txt2{
+    
+    font-family: 'Merienda', cursive;
+          background: linear-gradient(-45deg, #d4a5a5, #ffecda, #f9ffea, #a6d0e4);
+          background-size: 400% 400%;
+          animation: gradient 15s ease infinite;
+          
+          
+    width: 90vw;
+    height: 27vw;
+    margin-left: 17vw;
+    margin: 2vw 1vw;
+    left:0;
+    font-size: 1.5vw;
+}
+
+
+
+.box{
+    height: 20vw;
+    width: 90vw;
+    display: flex;
+}
+.button {
+    background-color: #294a66;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+  }
+  
+  
+  .button1 {border-radius: 40px;}
+  .button2 {border-radius: 40px;}
+  
+
+.hello { 
+	background: #7045ff; 
+}
+
+.infographic{ 
+	background: #ff6699; 
+}
+
+section {
+    display: block;
+  }
+
+.fourth-color { 
+	background: #ffaded; 
+}
+
+.primary-text-color { 
+	color: #212121; 
+}
+
+.secondary-text-color { 
+	color: #757575; 
+}
+
+.divider-color { 
+	color: #BDBDBD; 
+}
+
+.icon-color { 
+	color: #000000; 
+}
+
+
+
+
+
+#b3{
+ 
+    height: 25vw;
+}
+
+table
+{
+    border-collapse: separate;
+border-spacing: 0 1.3vw;
+overflow-x: auto;
+}
+
+#tablet{
+    margin-top: 10vw;
+    font-family: 'Merienda', cursive;
+    text-shadow: 2px 2px black;
+    color: brown;
+    margin-left: 50%;
+    font-size: 3.5vw;
+    
+}
+th{
+    background-color: #757575; 
+    color: whitesmoke;
+    font-size: 1.2vw;
+    height: 10vw;
+    width: 20vw;
+}
+td{
+    vertical-align: top;
+    width: 80vw;
+}
+tr{
+    background-color: white;
+    box-shadow: 0 0 10px black;
+}
+#TableHeading{
+    font-size: 2vw;
+}
+
+#field
+{
+    font-size: 1.3vw;
+}
+td #field{
+    font-size: 2vw;
+}
+#school
+{
+color: grey;
+text-transform: uppercase;
+}
+
+
+#con{
+    font-size: 3vw;
+    font-family: 'Merienda', cursive;
+    text-shadow: 2px 2px black;
+}
+#ff{
+    width: 85vw;
+    height: 45vw;
+}
+legend
+{
+font-family: 'Alegreya Sans SC', sans-serif;
+color: burlywood;
+text-shadow: 0 1vw 4vw black;
+font-size: 3vw;
+}
+fieldset{
+   
+    font-family: 'Laila', sans-serif;
+    color: #e16428;
+    font-size: 1.5vw;
+    width: 86.5vw;
+    background-color: #cabbe9;
+}
+textarea{
+    resize: none;
+    vertical-align: top;
+    text-align: left;
+    overflow-x: auto;
+    width: 56vw;
+}
+
+label {
+    display: inline-block;
+    width: 13vw;
+    margin-left: 5vw;
+  }
+
+input{
+    font-size: 1.3vw;
+}
+
+
+#hr{
+    display: none;
+}
+
+#radiobuttons
+{
+font-size: 1.3vw;
+font-family: 'Roboto Mono', monospace;
+color: black;
+}
+
+#more{
+    
+    font-family: 'Merienda', cursive;
+    
+    background: linear-gradient(-45deg, #bad7df, #ffe2e2, #f6f6f6, #99ddcc);
+          background-size: 400% 400%;
+          animation: gradient 15s ease infinite;
+          
+      
+    width: 90vw;
+    height: 30vw;
+    margin-left: 17vw;
+    margin: 2vw 1vw;
+    left:0;
+    font-size: 1.5vw;
+    text-align: center;
+}
+#mail{
+    font-size: 4vw;
+    text-align: right;
+    margin-left: 50vw;
+    
+}
+
+.reflect{
+    height:10vw;
+    font-family: 'Merienda', cursive;
+    font-size: 1.8vw;
+    text-align: left;
+    text-shadow: 2px 2px brown;
+}
+
+.git{
+    height:10vw;
+    font-family: 'Merienda', cursive;
+    font-size: 1.8vw;
+    text-align: right;
+    text-shadow: 2px 2px black;
+}
+
+
